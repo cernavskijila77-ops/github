@@ -4,4 +4,4 @@ x = 2
 y = 6
 print(y+x)
 
-print("yllhan")
+print("ladno")
